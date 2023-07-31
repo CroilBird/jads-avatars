@@ -1,0 +1,14 @@
+body {
+    background-color: slategray;
+    color: aliceblue
+}
+
+
+.parent {
+    display: flex;
+    justify-content: center;
+}
+
+.fullwidth {
+    width: 100%;
+}
